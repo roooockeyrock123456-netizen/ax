@@ -1,4 +1,4 @@
-unlimitedcois<h1>
+unlimited cois<h1>
   <img src="assets/axolotl.svg" width="70" align="absmiddle" alt="AX axolotl">
   AX
 </h1>
